@@ -25,9 +25,9 @@ The main objective of the project is to make predictions about the future perfor
 
 **Polynomial Linear Regression Model Performance:**
 
-- Mean Squared Error (MSE): 8.457
-- Root Mean Squared Error (RMSE): 2.908
-- R² Score: 0.755
+- Mean Squared Error (MSE): 6.296
+- Root Mean Squared Error (RMSE): 2.509
+- R² Score: 0.817
 - These results indicate the overall performance of the model and can be used for future improvements.
 
 
